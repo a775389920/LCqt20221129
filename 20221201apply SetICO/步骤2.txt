@@ -1,0 +1,5 @@
+1= w.setWindowIcon(QIcon(":/new/prefix1/NemuPlayer.ico"));
+2=RC_ICONS = NemuPlayero.ico    //添加在proUI前面
+RC_ICONS =NemuPlayer.ico
+创建步骤3文件添加=
+IDI_ICON1 ICON DISCARDABLE "NemuPlayer.ico"
